@@ -1628,7 +1628,7 @@ input, select, textarea {
 	}
 
 		.image img {
-			display: block;
+			display: flex;
 			width: 100%;
 		}
 
