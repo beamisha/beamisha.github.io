@@ -174,8 +174,10 @@ input, select, textarea {
 		}
 
 	h2 {
-		font-size: 2em;
+		font-size: 2.2em;
 		letter-spacing: -0.015em;
+		margin-bottom: 1em;
+		margin-top: -0.3em
 	}
 
 	h3 {
@@ -1610,7 +1612,7 @@ input, select, textarea {
 /* Section/Article */
 
 	section, article {
-		margin-bottom: 3em;
+		margin-bottom: 0em;
 	}
 
 	section > :last-child,
@@ -2007,7 +2009,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style3 {
-			background-color: #fafafa;
+			background-color: #f4f4f4;
 			text-shadow: 1px 1px 0px #fff;
 		}
 
@@ -2263,6 +2265,12 @@ input, select, textarea {
 			h1 {
 				font-size: 2.25em;
 				line-height: 1.25em;
+			}
+
+			h2 {
+				font-size: 1.7em; /*xxx*/
+				line-height: 1.25em;
+				margin-bottom: 0.5em;
 			}
 
 			header {
